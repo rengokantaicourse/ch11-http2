@@ -24,4 +24,4 @@ var server = https.createServer({
 	}
 });
 
-server.listen(8442);
+server.listen(8080);
